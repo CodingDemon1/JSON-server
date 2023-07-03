@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "name": "Nitish",
+      "age": "27",
+      "place": "Gomia",
+      "batch_name": "WEB-23",
+      "profession": "FSD",
+      "id": 1
+    }
+  ],
+  "data": [
+    
+  ]
+}
